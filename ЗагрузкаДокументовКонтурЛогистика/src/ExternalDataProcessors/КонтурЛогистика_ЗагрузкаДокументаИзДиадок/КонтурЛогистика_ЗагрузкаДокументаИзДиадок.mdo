@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c8ab1861-bab2-4466-ae85-61badc5ace4f">
+  <producedTypes>
+    <objectType typeId="b773064e-0956-4414-acd3-687ef451e3c6" valueTypeId="f6c9db55-db88-4b75-821c-86628074899a"/>
+  </producedTypes>
+  <name>КонтурЛогистика_ЗагрузкаДокументаИзДиадок</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка документа из Диадок (по идентификаторам)</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="335221ed-b3c7-4a9f-81d4-839c044bc583"/>
+  <defaultForm>ExternalDataProcessor.КонтурЛогистика_ЗагрузкаДокументаИзДиадок.Form.Форма</defaultForm>
+  <forms uuid="5832361f-1f87-4bce-b7b5-49aa72a5001d">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка документа из Диадок</value>
+    </synonym>
+  </forms>
+</mdclass:ExternalDataProcessor>
